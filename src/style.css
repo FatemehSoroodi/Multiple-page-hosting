@@ -4,6 +4,9 @@ body {
     rgb(254, 255, 165) 0%,
     rgb(255, 232, 182) 90%
   );
+  max-width: 900px;
+  display: block;
+  margin: auto;
 }
 
 .link-elements {
